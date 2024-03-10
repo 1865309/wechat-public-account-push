@@ -42,18 +42,18 @@ const USER_CONFIG = {
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '202-01-13' },
+        { keyword: 'love_day', date: '2021-01-13' },
        
     },
   ],
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '',
+  CALLBACK_TEMPLATE_ID: 'z2b8x8kPcNTBecTrWJOuRRB1YY1HSkaNcG8Rdg4HX_0',
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: '十点差三分',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oicPh6hY05biCP8CwmG-HKpx1xsE',
     }
